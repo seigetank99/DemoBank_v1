@@ -42,7 +42,7 @@
             <!-- End Of Display Message -->
 
             <!-- Regsitration Form -->
-            <form:form action="/register" class="reg-form" modelAttribute=" registerUser">
+            <form:form action="/register" class="reg-form" modelAttribute="registerUser">
                 <!-- Row -->
                 <div class="row">
                     <!-- From Group -->
